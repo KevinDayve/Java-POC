@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class LexSort {
     public static void main(String[] args) {
-
+        System.out.println(powerSet("ABC"));
     }
     //Function to return the lexicographically sorted power-set of the string.
      static ArrayList<String> powerSet(String s) {
