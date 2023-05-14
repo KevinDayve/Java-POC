@@ -1,7 +1,6 @@
 package DSA;
 
 import java.util.ArrayList;
-
 public class LexSort {
     public static void main(String[] args) {
         System.out.println(powerSet("ABC"));
